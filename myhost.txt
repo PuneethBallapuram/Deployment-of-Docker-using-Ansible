@@ -1,0 +1,2 @@
+[Managed_Node]
+192.168.0.86 ansible_ssh_user=vboxuser ansible_ssh_pass=punee2001@
